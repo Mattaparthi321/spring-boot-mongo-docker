@@ -1,4 +1,3 @@
-# Config Map
 kind: Deployment 
 apiVersion: v1 
 metadata:
